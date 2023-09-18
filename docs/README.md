@@ -1,14 +1,16 @@
 ---
 title: Documentation
 permalink: "/docs/"
-layout: page
 description: 'Here you should be able to find everything you need to know to accomplish
   the most common tasks when blogging with Hydejack.
 
 '
 hide_description: true
 sitemap: false
+layout: page
 ---
+
+Coucou coucou coucou
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
